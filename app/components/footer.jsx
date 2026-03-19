@@ -15,22 +15,7 @@ function Footer() {
             © Developer Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/paul-arwin-alda-766120277/" className="text-[#16f2b3]">Paul Arwin</Link>
           </p>
           <div className="flex items-center gap-5">
-            <Link
-              target="_blank"
-              href="https://github.com/said7388/developer-portfolio"
-              className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
-            >
-              <IoStar />
-              
-            </Link>
-            <Link
-              target="_blank"
-              href="https://github.com/said7388/developer-portfolio/fork"
-              className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
-            >
-              <CgGitFork />
-              
-            </Link>
+           
           </div>
         </div>
       </div>
